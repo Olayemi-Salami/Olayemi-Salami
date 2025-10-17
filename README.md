@@ -4,7 +4,7 @@
 Building rock-solid Web3 apps that just work, smart contracts that don't break, dApps anyone can actually use.
 
 📍 Based in Nigeria | 🌍 Open to remote opportunities  
-[LinkedIn](OlayemiSalami) • [GitHub](Olayemi-Salami) • [X](@SALAMIOLAY235) • [Email](mailto:salamiolayemi97@gmail.com)
+[LinkedIn](OlayemiSalami) • [GitHub](Olayemi-Salami) • [X](@SALAMIOLAY235) • [salamiolayemi97@gmail.com](mailto:salamiolayemi97@gmail.com)
 
 ---
 ## About Me
@@ -52,7 +52,7 @@ I’m open to collaborating on:
 - **Web3 Frontend** — Pixel-perfect UIs for wallets, marketplaces, & DAOs  
 - **Research & Consulting** — Blockchain scalability, AI × Web3, & African adoption strategies  
 
-📫 **Quick Connect:** [Email me directly](mailto:salamiolayemi97@gmail.com)  
+📫 **Quick Connect:** [salamiolayemi97@gmail.com](mailto:salamiolayemi97@gmail.com)  
 💼 **Professional:**[LinkedIn](OlayemiSalami)  
 🐦 **Casual Chat:** [DM on X](@SALAMIOLAY235)
 
@@ -60,4 +60,4 @@ I’m open to collaborating on:
 
 **Looking forward to turning your Web3 vision into reality. Let’s decentralize the future.**
 
--->
+
