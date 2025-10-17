@@ -37,8 +37,6 @@ Here are some of my proudest creations each one a testament to solving real-worl
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Olayemi-Salami&layout=compact&theme=transparent)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Olayemi-Salami&theme=transparent)
-
 ---
 ## 🔗 Let's Build Something Amazing Together
 
